@@ -1,0 +1,12 @@
+flag    content
+
+$SCORE_LABEL Score:
+$COMBO_BREAKS_LABEL Combo Breaks:
+$ACCURACY_LABEL Accuracy:
+
+$STORY_MODE Story Mode
+$FREEPLAY Freeplay
+$OPTIONS Options
+$CREDITS Credits
+$DONATE Donate
+$EXIT Exit
