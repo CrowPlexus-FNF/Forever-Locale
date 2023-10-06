@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!--
+        Add list of files you're including in your localization here
+	    The engine will NOT load any files that are not listed.
+	-->
+	<file id="data" value="data.tsv"/>
+	<file id="fonts" value="fonts.xml"/>
+
+    <locale id="en-US" is_default="true" sort="0">
+		<contributors value="CrowPlexus"/>
+		<ui language="Language" region="Region" accept="Okay" />
+		<label id="en-US,en-GB,en-CA,en-UK" language="English" region="United States"/>
+	</locale>
+</data>
