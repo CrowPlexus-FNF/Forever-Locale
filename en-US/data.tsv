@@ -1,12 +1,12 @@
-flag    content
+flag	content
 
-$SCORE_LABEL Score:
-$COMBO_BREAKS_LABEL Combo Breaks:
-$ACCURACY_LABEL Accuracy:
+$SCORE_LABEL	Score:
+$ACCURACY_LABEL	Accuracy:
+$COMBO_BREAKS_LABEL	Combo Breaks:
 
-$STORY_MODE Story Mode
-$FREEPLAY Freeplay
-$OPTIONS Options
-$CREDITS Credits
-$DONATE Donate
-$EXIT Exit
+$STORY_MODE	Story Mode
+$FREEPLAY	Freeplay
+$OPTIONS	Options
+$CREDITS	Credits
+$DONATE	Donate
+$EXIT	Exit
